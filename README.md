@@ -44,3 +44,13 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
     </div>
 </div>
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DilianUs&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilianUs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilianUs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
