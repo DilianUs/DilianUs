@@ -23,3 +23,10 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+---
+### About Me:
+
+- 💬 Ask me about **html, css, java**
+- 📫 How to reach me: **dilian0217@gmail.com**
+- 🎓 I'm currently learning **React.js, Unity development, c# and UX/UI design**
+
