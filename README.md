@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
     <h1 align=center">Hello world 👋🌎, I'm Dilian</h1>
-    <h3> A pssionate software engineer trainee from Merida,Yucatan, Mexico. I like to learn new skills in software and I focus on frontend web development. Also, I like video games development in Unity.</h3>
+    <h3> A passionate software engineer trainee from Merida,Yucatan, Mexico. I like to learn new skills in software and I focus on frontend web development. Also, I like video games development in Unity.</h3>
 </div>
+<div id="header" align="center">
+    <a href="https://www.linkedin.com/in/dilian-us-cachon-591948236/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=<in>&message=<Linkedin>&color=<blue>" />
+    </a>
+</div>
+
