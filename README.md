@@ -54,3 +54,12 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilianUs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilianUs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+                                                                                                                                              
+ ---
+ ### Extra Skils
+- **Video edition**
+- **Drawing**
+- **Music (Guitar, piano, sing and ukelele)**
+- **Hardware support**
+                                                                                                                                              
