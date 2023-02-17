@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **dilian0217@gmail.com**
 - 🎓 I'm currently learning **React.js, Unity development, c# and UX/UI design**
 
+<div id="languages" align="left">
+    <h3>🛠️ Languajes and Tools</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    </div>
+</div>
