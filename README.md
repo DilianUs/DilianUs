@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
     <h1 align=center">Hello world 👋🌎, I'm Dilian</h1>
-    <h3></h3>
+    <h3> A pssionate software engineer trainee from Merida,Yucatan, Mexico. I like to learn new skills in software and I focus on frontend web development. Also, I like video games development in Unity.</h3>
 </div>
