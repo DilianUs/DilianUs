@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DilianUs/DilianUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
+    <h1 align=center">Hello world 👋🌎, I'm Dilian</h1>
+    <h3></h3>
+</div>
