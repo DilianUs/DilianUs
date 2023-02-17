@@ -17,9 +17,9 @@ Here are some ideas to get you started:
     <h1 align=center">Hello world 👋🌎, I'm Dilian</h1>
     <h3> A passionate software engineer trainee from Merida,Yucatan, Mexico. I like to learn new skills in software and I focus on frontend web development. Also, I like video games development in Unity.</h3>
 </div>
-<div id="header" align="center">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/dilian-us-cachon-591948236/" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=<in>&message=<Linkedin>&color=<blue>" />
+        <img src="https://img.shields.io/endpoint?color=blue&logo=Linkedin&logoColor=blue" alt="Linkedin badge"/>
     </a>
 </div>
 
