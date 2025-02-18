@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 ### About Me:
 
-- 💬 Ask me about **html, css, java**
+- 💬 Ask me about **React, .net, js**
 - 📫 How to reach me: **dilian0217@gmail.com**
 - 🎓 I'm currently learning **React.js, Unity development, c# and UX/UI design**
 
